@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://mehakrazaullah.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://mehakrazaullah)
 <h1 align="center">Hi 👋, I'm Mehak Razaullah</h1>
 <h3 align="center">I am passionate Software Engineer Student from Pakistan.</h3>
 
